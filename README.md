@@ -14,5 +14,6 @@
 
 # Members
 |Name|e-mail|github|
+|------|---|---|
 |박현정|pphj447@naver.com|[hyeonjeong1234](https://gist.github.com/hyeonjeong1234)|
 |정명지|myungji129@naver.com|[myungji2](https://gist.github.com/myungji2)|
