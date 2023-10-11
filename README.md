@@ -9,9 +9,9 @@
   
 [통신]
 - 터틀봇<->사용자 UI: TCP   
-- 영상처리 서버 <-> 사용자 UI: SSH     
+- 영상처리 서버 <-> 사용자 UI: SSH        
 [사용자 UI]
-pyQT
+- pyQT
 
 # Members
 |Name|e-mail|github|
