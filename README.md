@@ -5,6 +5,8 @@
    참고 : [PF-AFN](https://github.com/geyuying/PF-AFN#parser-free-virtual-try-on-via-distilling-appearance-flows-cvpr-2021)
 4) 원하는 옷이 있는 위치로 길 안내: 터틀봇3 버거 이용하여 주행     
    참고 : [Turtlebot3](https://github.com/ROBOTIS-GIT/turtlebot3.git) / [Navigation](https://mecharithm.com/learning/lesson/autonomous-navigation-of-turtlebot-using-ros-61)
+
+
 (VM 서버 코드 생략됨)
   
 
